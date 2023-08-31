@@ -233,7 +233,8 @@ hr{
 }
 
 .section--clients{
-    background: url(../images/clients-bg.jpg) fixed;
+    background: url(../images/clients-bg.jpg) center no-repeat;
+    background-size: cover;
 }
 
 .section--devices{
